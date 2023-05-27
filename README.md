@@ -1,23 +1,16 @@
 # Regex Tutorial
 
-<!--
 ## Table of Contents
 
 - [Description](#📝-description)
     - [User Story](#👤-user-story)
     - [Acceptance Criteria](#☑️-acceptance-criteria)
 - [License](#📃-license)
-- [Links](#🔗-links)
+
 
 ## 📝 Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
--->
 
 ### 👤 User Story
 
@@ -46,7 +39,3 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 Please refer to the LICENSE in the repo.
 
-<!--
-##  🔗 Links
-
--->
